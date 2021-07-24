@@ -1,0 +1,24 @@
+{
+  "name": "pupperteer-demo",
+  "version": "1.0.0",
+  "description": "pupperteer库的使用，完成网页图片的爬取",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mw-kyz/pupperteer-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mw-kyz/pupperteer-demo/issues"
+  },
+  "homepage": "https://github.com/mw-kyz/pupperteer-demo#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
